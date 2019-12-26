@@ -19,7 +19,7 @@ license=("Feel free to use it for any project, no commercial licences required, 
 depends=(wine)
 makedepends=(unzip)
 noextract=("MagicaVoxel-${pkgver}.${pkgrel}-alpha-win64.zip")
-md5sums=('49da7365178fa2ab7c55d9d7c6268395'
+md5sums=('cd927137a1a69d43c7f03bf2ca8332a7'
          '02e7c206bfd79afa544df799c053ec81'
          '64ba6d1187827aa3ff3577c9ef9419fc'
          'f4c23c8e58253215628e3c0acd14522e'
